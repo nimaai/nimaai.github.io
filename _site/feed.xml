@@ -4,7 +4,7 @@
   <generator uri="https://jekyllrb.com/" version="4.2.1">Jekyll</generator>
   <link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" />
   <link href="http://localhost:4000/" rel="alternate" type="text/html" />
-  <updated>2021-10-28T22:14:57+02:00</updated>
+  <updated>2021-10-28T22:55:14+02:00</updated>
   <id>http://localhost:4000/</id>
 
   
@@ -20,8 +20,8 @@
   
   
     <entry>
-      <title type="html">Project 1</title>
-      <link href="http://localhost:4000/" rel="alternate" type="text/html" title="Project 1" />
+      <title type="html">IT OUTSOURCING</title>
+      <link href="http://localhost:4000/" rel="alternate" type="text/html" title="IT OUTSOURCING" />
       <published>2014-07-18T00:00:00+02:00</published>
       <updated>2014-07-18T00:00:00+02:00</updated>
       <id>http://localhost:4000/project-1</id>
@@ -40,7 +40,7 @@
       </author>
 
       
-        <category term="Web Development" />
+        <category term="IT Outsourcing" />
       
 
       
@@ -54,8 +54,8 @@
     </entry>
   
     <entry>
-      <title type="html">Project 2</title>
-      <link href="http://localhost:4000/" rel="alternate" type="text/html" title="Project 2" />
+      <title type="html">SOFTWARE ENGINEERING</title>
+      <link href="http://localhost:4000/" rel="alternate" type="text/html" title="SOFTWARE ENGINEERING" />
       <published>2014-07-17T00:00:00+02:00</published>
       <updated>2014-07-17T00:00:00+02:00</updated>
       <id>http://localhost:4000/project-2</id>
@@ -74,7 +74,7 @@
       </author>
 
       
-        <category term="Web Development" />
+        <category term="Software Engineering" />
       
 
       
@@ -88,8 +88,8 @@
     </entry>
   
     <entry>
-      <title type="html">Project 3</title>
-      <link href="http://localhost:4000/" rel="alternate" type="text/html" title="Project 3" />
+      <title type="html">TEST ENGINEERING &amp;amp; MANAGEMENT</title>
+      <link href="http://localhost:4000/" rel="alternate" type="text/html" title="TEST ENGINEERING &amp; MANAGEMENT" />
       <published>2014-07-16T00:00:00+02:00</published>
       <updated>2014-07-16T00:00:00+02:00</updated>
       <id>http://localhost:4000/project-3</id>
@@ -108,7 +108,7 @@
       </author>
 
       
-        <category term="Web Development" />
+        <category term="Test Engineering &amp; Management" />
       
 
       
@@ -122,8 +122,8 @@
     </entry>
   
     <entry>
-      <title type="html">Project 4</title>
-      <link href="http://localhost:4000/" rel="alternate" type="text/html" title="Project 4" />
+      <title type="html">PROJECT MANAGEMENT</title>
+      <link href="http://localhost:4000/" rel="alternate" type="text/html" title="PROJECT MANAGEMENT" />
       <published>2014-07-15T00:00:00+02:00</published>
       <updated>2014-07-15T00:00:00+02:00</updated>
       <id>http://localhost:4000/project-4</id>
@@ -142,7 +142,7 @@
       </author>
 
       
-        <category term="Web Development" />
+        <category term="Project Management" />
       
 
       
@@ -156,8 +156,8 @@
     </entry>
   
     <entry>
-      <title type="html">Project 6</title>
-      <link href="http://localhost:4000/" rel="alternate" type="text/html" title="Project 6" />
+      <title type="html">AGILE TEAMS</title>
+      <link href="http://localhost:4000/" rel="alternate" type="text/html" title="AGILE TEAMS" />
       <published>2014-07-15T00:00:00+02:00</published>
       <updated>2014-07-15T00:00:00+02:00</updated>
       <id>http://localhost:4000/project-6</id>
@@ -176,7 +176,7 @@
       </author>
 
       
-        <category term="Web Development" />
+        <category term="Agile Teams" />
       
 
       
@@ -190,8 +190,8 @@
     </entry>
   
     <entry>
-      <title type="html">Project 5</title>
-      <link href="http://localhost:4000/" rel="alternate" type="text/html" title="Project 5" />
+      <title type="html">SAAS CONSULTANCY</title>
+      <link href="http://localhost:4000/" rel="alternate" type="text/html" title="SAAS CONSULTANCY" />
       <published>2014-07-14T00:00:00+02:00</published>
       <updated>2014-07-14T00:00:00+02:00</updated>
       <id>http://localhost:4000/project-5</id>
@@ -210,7 +210,7 @@
       </author>
 
       
-        <category term="Web Development" />
+        <category term="SaaS Consultancy" />
       
 
       
