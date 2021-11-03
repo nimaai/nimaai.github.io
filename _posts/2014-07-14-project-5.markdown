@@ -2,11 +2,11 @@
 layout: default
 title: SAAS CONSULTANCY
 modal-id: 5
-date: 2014-07-14
+<!-- date: 2014-07-14 -->
 img: SaaS.jpeg
 alt: image-alt
-project-date: April 2014
-client: Start Bootstrap
-category: SaaS Consultancy
-description: Use this area of the page to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia neque assumenda ipsam nihil, molestias magnam, recusandae quos quis inventore quisquam velit asperiores, vitae? Reprehenderit soluta, eos quod consequuntur itaque. Nam.
+<!-- project-date: April 2014 -->
+client: Several academic institutions in Switzerland
+<!-- category: SaaS Consultancy -->
+description: Software as a service (SaaS) is the most commonly used option for businesses in the cloud market. The reason? It’s easily accessible – all you need is an internet connection and a browser – and it’s hands-off. The SaaS delivery model requires vendors to manage all the technical issues – meaning customers don’t need to lean on their in-house IT expertise. As a founding member of Functional GmbH in Switzerland I have gained sufficient insight as well as expertise in all the different aspects of SaaS solutions and customer relationships.
 ---
