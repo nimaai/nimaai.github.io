@@ -2,11 +2,11 @@
 layout: default
 title: TEST ENGINEERING & MANAGEMENT
 modal-id: 3
-date: 2014-07-16
+<!-- date: 2014-07-16 -->
 img: Software-Testing.png
 alt: image-alt
-project-date: April 2014
-client: Start Bootstrap
-category: Test Engineering & Management
-description: Use this area of the page to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia neque assumenda ipsam nihil, molestias magnam, recusandae quos quis inventore quisquam velit asperiores, vitae? Reprehenderit soluta, eos quod consequuntur itaque. Nam.
+<!-- project-date: April 2014 -->
+client: Switch, Switchplus, ZHdK
+<!-- category: Test Engineering & Management -->
+description: Test management is a process of managing testing activities, such as planning, execution, monitoring, and controlling activities. Test management involves several crucial activities that caters to both manual and automation testing. With the assistance of this process, a team lead can easily manage the entire testing team, while monitoring their activities, as well as paying close attention to various details of software development life cycle. I offer a certificate as well as a rich experience in all aspects of software testing.
 ---
