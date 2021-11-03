@@ -8,5 +8,5 @@ alt: image-alt
 <!-- project-date: April 2014 -->
 client: SWQA India, Ragnarson Poland
 <!-- category: IT Outsourcing -->
-description: Use this area of the page to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia neque assumenda ipsam nihil, molestias magnam, recusandae quos quis inventore quisquam velit asperiores, vitae? Reprehenderit soluta, eos quod consequuntur itaque. Nam.
+description: When it comes to working with an offshore team, there will always be challenges, but these can be resolved through open communication, understanding, and working together toward a common goal. Outsourcing should not be a burden but rather help alleviate problems and tasks that you cannot do alone. In the past years I could actively contribute to and stear towards a successful off- and nearshoring partnerships that resulted in robust, correct and cost-effective solutions.
 ---
