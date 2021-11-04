@@ -4,7 +4,7 @@
   <generator uri="https://jekyllrb.com/" version="4.2.1">Jekyll</generator>
   <link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" />
   <link href="http://localhost:4000/" rel="alternate" type="text/html" />
-  <updated>2021-11-03T13:01:24+01:00</updated>
+  <updated>2021-11-04T09:19:27+01:00</updated>
   <id>http://localhost:4000/</id>
 
   
@@ -138,42 +138,6 @@
       </author>
 
       
-        <category term="Project Management" />
-      
-
-      
-
-      
-        <summary type="html"></summary>
-      
-
-      
-      
-    </entry>
-  
-    <entry>
-      <title type="html">AGILE TEAMS</title>
-      <link href="http://localhost:4000/" rel="alternate" type="text/html" title="AGILE TEAMS" />
-      <published>2014-07-15T00:00:00+02:00</published>
-      <updated>2014-07-15T00:00:00+02:00</updated>
-      <id>http://localhost:4000/project-6</id>
-      <content type="html" xml:base="http://localhost:4000/"></content>
-
-      
-      
-      
-      
-      
-
-      <author>
-          <name></name>
-        
-        
-      </author>
-
-      
-        <category term="Agile Teams" />
-      
 
       
 
@@ -191,6 +155,38 @@
       <published>2014-07-14T00:00:00+02:00</published>
       <updated>2014-07-14T00:00:00+02:00</updated>
       <id>http://localhost:4000/project-5</id>
+      <content type="html" xml:base="http://localhost:4000/"></content>
+
+      
+      
+      
+      
+      
+
+      <author>
+          <name></name>
+        
+        
+      </author>
+
+      
+
+      
+
+      
+        <summary type="html"></summary>
+      
+
+      
+      
+    </entry>
+  
+    <entry>
+      <title type="html">AGILE TEAMS</title>
+      <link href="http://localhost:4000/" rel="alternate" type="text/html" title="AGILE TEAMS" />
+      <published>2014-07-13T00:00:00+02:00</published>
+      <updated>2014-07-13T00:00:00+02:00</updated>
+      <id>http://localhost:4000/project-6</id>
       <content type="html" xml:base="http://localhost:4000/"></content>
 
       

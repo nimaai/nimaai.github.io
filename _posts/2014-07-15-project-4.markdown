@@ -2,11 +2,11 @@
 layout: default
 title: PROJECT MANAGEMENT
 modal-id: 4
-date: 2014-07-15
+<!-- date: 2014-07-15 -->
 img: Project-Management.png
 alt: image-alt
-project-date: April 2014
-client: Start Bootstrap
-category: Project Management
-description: Use this area of the page to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia neque assumenda ipsam nihil, molestias magnam, recusandae quos quis inventore quisquam velit asperiores, vitae? Reprehenderit soluta, eos quod consequuntur itaque. Nam.
+<!-- project-date: April 2014 -->
+client: Switch, Switchplus
+<!-- category: Project Management -->
+description: There are still too many project managers who think that project management is creating a project schedule in project management software (which they think is a project plan) and then giving it out to the team, thereby telling the team what to do. Real project management involves the project manager as the facilitator or integrator of others' ideas. Great project management is all about getting and keeping buy-in. Having worked as an assistent of a pragmatic project manager for some time, I had the opportunity to get my hands dirty and learn on the spot what really matters in managing a software project. 
 ---

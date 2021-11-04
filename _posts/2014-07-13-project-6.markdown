@@ -2,11 +2,11 @@
 layout: default
 title: AGILE TEAMS
 modal-id: 6
-date: 2014-07-15
+<!-- date: 2014-07-15 -->
 img: Agile-Teams.jpeg
 alt: image-alt
-project-date: April 2014
-client: Start Bootstrap
-category: Agile Teams
-description: Use this area of the page to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia neque assumenda ipsam nihil, molestias magnam, recusandae quos quis inventore quisquam velit asperiores, vitae? Reprehenderit soluta, eos quod consequuntur itaque. Nam.
+<!-- project-date: April 2014 -->
+client: Switch, Switchplus, ZHdK
+<!-- category: Agile Teams -->
+description: Small, independent teams are the lifeblood of the agile organization. Top executives can unleash them by driving ambition, removing red tape, and helping managers adjust to the new norms. What does it take to set loose the independent teams that make agile organizations hum? While much depends on the actions of the individual team members, senior executives must thoughtfully create the environment in which teams and their managers can thrive. Working in an agile environment has been my bread and butter since couple of years already. I advocate a healthy unbiased approach towards agility in software project. There is no silver bullet.
 ---
