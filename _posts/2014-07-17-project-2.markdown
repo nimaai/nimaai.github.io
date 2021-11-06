@@ -2,11 +2,11 @@
 layout: default
 title: SOFTWARE ENGINEERING
 modal-id: 2
-date: 2014-07-17
+<!-- date: 2014-07-17 -->
 img: Software-Engineering.jpeg
 alt: image-alt
-project-date: April 2014
-client: Start Bootstrap
-category: Software Engineering
-description: 
+<!-- project-date: April 2014 -->
+client: ZHdK & various academic institutions in Switzerland
+<!-- category: Software Engineering -->
+description: A seasoned developer should be able to distill complex problems through the application of design patterns. He or she is able to adapt design patterns to fit the needs at hand through thoughtful analysis of the problem space. As a result, he or she can be trusted with architectural problems involving many systems, not just coding problems. I offer software solutions which build upon solid theoretical fundament and mix in the required dose of programming experience and passion for the field of computer science.
 ---
