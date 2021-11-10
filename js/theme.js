@@ -771,9 +771,9 @@ function init_ultrauniq_gmap(){
 				else if( map_mode == 'Night' )
 					map_style_mode = map_style_obj.Night;
 			}
-			
-			_lat = _map_ele.data("lat") ? _map_ele.data("lat") : 51.508742;
-			_lng = _map_ele.data("lng") ? _map_ele.data("lng") : -0.120850;
+		 	
+			_lat = _map_ele.data("lat") ? _map_ele.data("lat") : 47.37829712550557;
+			_lng = _map_ele.data("lng") ? _map_ele.data("lng") : 8.540432447834453;
 
 			var LatLng = {lat: _lat, lng: _lng};
 			
