@@ -811,7 +811,7 @@ a.site-logo {
 	transition: none;
 }
 .site-logo img {
-    max-width: 170px;
+    max-width: 350px;
 }
 a.site-logo.sticky-logo, .header-sticky a.site-logo.default-logo {
     height: 0;
